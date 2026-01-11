@@ -78,15 +78,15 @@ fase4-mobile/
 ## 📱 Telas & Funcionalidades
 
 Público:
-Home – lista de posts + busca em tempo real
-Post – leitura completa da matéria
+- Home – lista de posts + busca em tempo real
+- Post – leitura completa da matéria
 
 Professor (protegido):
-Login – autenticação
-AdminPosts – lista geral de posts
-PostForm – criar / editar post
-Professores – listagem, criação, edição e exclusão
-Alunos – listagem, criação, edição e exclusão
+- Login – autenticação
+- AdminPosts – lista geral de posts
+- PostForm – criar / editar post
+- Professores – listagem, criação, edição e exclusão
+- Alunos – listagem, criação, edição e exclusão
 
 ---
 
